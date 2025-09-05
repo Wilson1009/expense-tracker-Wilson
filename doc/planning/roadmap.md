@@ -3,10 +3,10 @@
 ## Phase 1: Foundation (Weeks 1-3)
 ### Week 1: Documentation & Setup
 [TODO: List your Week 1 tasks]
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
+- Create the baseline for the code 
+- Start on the front-end
+- Start on the back-end
+- Think of concepts for the style of the application
 
 ### Week 2: [TODO: Week 2 Focus]
 [TODO: List your Week 2 tasks]
